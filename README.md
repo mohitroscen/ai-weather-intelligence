@@ -1,4 +1,4 @@
-# 🌍 AI Weather Intelligence Platform
+<img width="1512" height="982" alt="Screenshot 2026-02-09 at 8 25 47 PM" src="https://github.com/user-attachments/assets/7f1c7d0b-472c-47c8-8d22-6a93c5fb4e89" /># 🌍 AI Weather Intelligence Platform
 
 An AI-powered climate analytics and forecasting dashboard built with **Streamlit**.
 
@@ -16,6 +16,8 @@ An AI-powered climate analytics and forecasting dashboard built with **Streamlit
 - Pandas  
 - Scikit-learn  
 - Open-Meteo weather API
+  
+
 
 ## 📦 Installation (Local)
 ```bash
